@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theohilus victor</h1>
-<h3 align="center">Sailing the Web3 Waters</h3>
+<h3 align="center">Sailing the Web3 Waters.</h3>
 
 - 🔭 I’m currently working on **Blockchain and Machine learning (ML)**
 
