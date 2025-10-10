@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything frontend but mostly backend**
 
-- 📫 How to reach me **yootomk.j237@gmail.com**
+- 📫 How to reach me **yootom19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
