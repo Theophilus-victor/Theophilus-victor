@@ -1,2 +1,1 @@
-<img width="1584" height="396" alt="Background Art" src="https://github.com/user-attachments/assets/e7d359b7-bfbc-435a-b958-bc0381d4fe51" />
-
+<img width="672" height="328" alt="download" src="https://github.com/user-attachments/assets/32f70c8d-5133-40fb-b6dd-7f1d9750d2c1" />
