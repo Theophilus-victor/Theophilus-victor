@@ -1,3 +1,3 @@
 <p align="center">
-<img src = "images/download.gif"/>
+<img src = "images/header.gif"/>
 </p>
